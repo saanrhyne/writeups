@@ -20,9 +20,6 @@ with another team member saying "I think it's in Westfield UTC mall." He said he
 ## Solution
 I googled "Westfield UTC Mall Lat Long" and tried a few different results in the coordinate input server, and 32.871274, -117.210659 worked, getting us our 3rd solve of the competition.
 
-
-## Flag
 The flag is: .;,;.{g00gl3_ai_th1nks_th3s3_pr0duc3_r3n3w3bl3_3n3rgy_1ma0}
 
-## Closing Remarks
 This was the third challenge we solved, and wwas a team effort. OSINT challenges are lots of fun, especially when you have to use logic and you can't just find the image on Instagram somwhere.
