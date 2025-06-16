@@ -1,4 +1,4 @@
-# Sans' Writeups
+# My Writeups
 Just putting these out there in case they help somebody learn, and to track my own progress in CTFs.
 
 ## Writeups
