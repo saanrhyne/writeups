@@ -5,7 +5,7 @@
 
 ## Initial Thoughts
 
-This is a sanity check, normally used just to verify that the infrastructure is working, the user is sane, and that they know what to do and the flag format.
+This is a sanity check, normally used just to verify that the infrastructure is working, the user is sane, that the user knows what to do, and that the user knows the flag format.
 
 
 ## Methodology
