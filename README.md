@@ -12,8 +12,8 @@ Here are the writeups I've made for some of the competitions I've done. You can 
 ## Rankings
 This is not an exhaustive list of CTF competitions that I've done, but these are the more recognized ones. I have placed in numerous local competitions.
 
-### SmileyCTF 2025: *Sytnax Error* - 124 points
-* 344th Overall (of 1076 teams)
+### SmileyCTF 2025: *Sytnax Error* - 110 points
+* 457th Overall (of 1090 teams)
 
 ### PicoCTF 2025: *Sytnax Error* - 1335 points
 * 216th in US Middle/High School (of 1817 teams)
