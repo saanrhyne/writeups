@@ -4,13 +4,30 @@ Just putting these out there in case they help somebody learn, and to track my o
 ## Writeups
 Here are the writeups I've made for some of the competitions I've done. You can find more info on how reliable of a source I am (rankings in CTFs) below.
 
+### IERAE CTF 2025
+* misc/DiNo.1
+* pwn/Length Calculator
+* rev/rev rev rev
+
+### GPN CTF 2025
+* Reversing/MiniDSP
+* Web/Intro to web - Part 1
+
 ### SmileyCTF 2025
 * misc/Sanity Check
 * rev/Success
 * misc/Sky
 
 ## Rankings
-This is not an exhaustive list of CTF competitions that I've done, but these are the more recognized ones. I have placed in numerous local competitions.
+This is an exhaustive list of online CTF competitions I've done. I've also done numerous in person competitions
+
+### 
+
+### IERAE CTF 2025: *Sytnax Error* - 415 points
+* 236th Overall (of 476 teams)
+
+### GPN CTF 2025: *Sytnax Error* - 120 points
+* 328th Overall (of 1039 teams)
 
 ### SmileyCTF 2025: *Sytnax Error* - 110 points
 * 457th Overall (of 1090 teams)
