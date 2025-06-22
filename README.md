@@ -2,7 +2,13 @@
 Just putting these out there in case they help somebody learn, and to track my own progress in CTFs.
 
 ## Writeups
-Here are the writeups I've made for some of the competitions I've done. You can find more info on how reliable of a source I am (rankings in CTFs) below.
+Here are the writeups I've made (or are going to make) for some of the competitions I've done. You can find more info on how reliable of a source I am (rankings in CTFs) below.
+
+### BCACTF 6.0
+* Molasses
+* Japanese Lyrics OSINT
+* ez-xor
+* BMovie
 
 ### IERAE CTF 2025
 * misc/DiNo.1
@@ -21,13 +27,14 @@ Here are the writeups I've made for some of the competitions I've done. You can 
 ## Rankings
 This is an exhaustive list of online CTF competitions I've done. I've also done numerous in person competitions
 
-### 
+### cornCTF 2025: *Sytnax Error* - 60 points
+* 76th Overall (of 269 teams)
 
-### IERAE CTF 2025: *Sytnax Error* - 415 points
-* 236th Overall (of 476 teams)
+### IERAE CTF 2025: *Sytnax Error* - 398 points
+* 249th Overall (of 538 teams)
 
 ### GPN CTF 2025: *Sytnax Error* - 120 points
-* 328th Overall (of 1039 teams)
+* 334th Overall (of 1065 teams)
 
 ### SmileyCTF 2025: *Sytnax Error* - 110 points
 * 457th Overall (of 1090 teams)
